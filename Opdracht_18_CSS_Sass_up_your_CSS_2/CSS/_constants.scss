@@ -1,0 +1,9 @@
+/* Variables */
+
+$generalcolortitle: #374250; 
+$generalcolortext: #091268; 
+$standardpadding: 20px;
+
+@mixin display ( $display) { display: $display; }
+@mixin align ( $align) { align-items: $align; }
+@mixin aligntext ( $aligntext) { text-align: $aligntext; }
